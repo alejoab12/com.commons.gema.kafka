@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "gema.kafka",
+      "type": "com.commons.gema.kafka.config.property.GemaKafkaProperty",
+      "sourceType": "com.commons.gema.kafka.config.property.GemaKafkaProperty"
+    }
+  ],
+  "properties": [
+    {
+      "name": "gema.kafka.consumer",
+      "type": "com.commons.gema.kafka.config.property.ConsumerKafkaConfig",
+      "sourceType": "com.commons.gema.kafka.config.property.GemaKafkaProperty"
+    },
+    {
+      "name": "gema.kafka.producer",
+      "type": "com.commons.gema.kafka.config.property.ProducerKafkaConfig",
+      "sourceType": "com.commons.gema.kafka.config.property.GemaKafkaProperty"
+    }
+  ],
+  "hints": []
+}

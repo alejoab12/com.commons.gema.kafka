@@ -1,0 +1,8 @@
+com/commons/gema/kafka/config/property/GemaKafkaProperty.class
+META-INF/spring-configuration-metadata.json
+com/commons/gema/kafka/config/property/ConsumerKafkaConfig.class
+com/commons/gema/kafka/config/ConsumerConfigKafka.class
+com/commons/gema/kafka/aspect/ProducerKafkaAOP.class
+com/commons/gema/kafka/config/ProducerConfigKafka.class
+com/commons/gema/kafka/aspect/annotation/GenerateEventKafka.class
+com/commons/gema/kafka/config/property/ProducerKafkaConfig.class

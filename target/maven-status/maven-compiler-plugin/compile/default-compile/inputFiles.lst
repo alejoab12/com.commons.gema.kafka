@@ -1,0 +1,7 @@
+/Users/everis/Documents/workspace/com.commons.gema.kafka/src/main/java/com/commons/gema/kafka/config/property/ConsumerKafkaConfig.java
+/Users/everis/Documents/workspace/com.commons.gema.kafka/src/main/java/com/commons/gema/kafka/config/property/GemaKafkaProperty.java
+/Users/everis/Documents/workspace/com.commons.gema.kafka/src/main/java/com/commons/gema/kafka/config/ConsumerConfigKafka.java
+/Users/everis/Documents/workspace/com.commons.gema.kafka/src/main/java/com/commons/gema/kafka/aspect/annotation/GenerateEventKafka.java
+/Users/everis/Documents/workspace/com.commons.gema.kafka/src/main/java/com/commons/gema/kafka/aspect/ProducerKafkaAOP.java
+/Users/everis/Documents/workspace/com.commons.gema.kafka/src/main/java/com/commons/gema/kafka/config/property/ProducerKafkaConfig.java
+/Users/everis/Documents/workspace/com.commons.gema.kafka/src/main/java/com/commons/gema/kafka/config/ProducerConfigKafka.java
